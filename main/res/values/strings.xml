@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="lblResult">Result: </string>
+    <string name="txtResult"></string>
+    <string name="btnCaculate">Caculate</string>
+    <string name="lblA">a = </string>
+    <string name="lblB">b = </string>
+    <string name="txtNumber1">Enter number1 ...</string>
+    <string name="txtNumber2">Enter number2 ...</string>
+    <string name="lblChoose">Choose an Operator</string>
+    <string name="lblCong">+</string>
+    <string name="lblTru">-</string>
+    <string name="lblNhan">*</string>
+    <string name="lblChia">/</string>
+</resources>
